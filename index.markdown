@@ -12,9 +12,9 @@ layout: home
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Conference Opening Remarks</a>, Carvel Collins</li>
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Lecture: "New Trends in the Contemporary Novel," </a>Stanley Hyman</li> 
-<li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor, <a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Part One</a> and <a href="https://tanyaclement.github.io/Harvard-1953/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion">Part Two</a></li>
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion">Response to Hyman and O'Connor</a>, Anthony West</li>
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion">Panel Discussion</a></li> </ul>
+<li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor, [Part One](https://tanyaclement.github.io/harvard1953/august-3-evening-part-one) and [Part Two](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two)</li>
+<li style="list-style-type:none;">[Response to Hyman and O'Connor](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two), Anthony West</li>
+<li style="list-style-type:none;">[Panel Discussion](https://tanyaclement.github.io/harvard1953/august-3-evening-part-two)</li> </ul>
 
 ## August 4, 1953
 ### Afternoon:
