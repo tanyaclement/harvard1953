@@ -1,0 +1,2240 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-one-canvas-1-w-m--frohock.json",
+  "type": "AnnotationPage",
+  "label": "W.M. Frohock",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The briefest possible correction, as of July 1st, I changed my allegiance from Columbia University to Wesleyan University in Connecticut, and hereby declare Columbia absolved from any responsibility, possibly eligible for your congratulations.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Let me remind you first of what went on last evening. I'm supposed to be, I understand, an authority on violence. Actually, that was a clip book and I didn't even select the title. Ever since I wrote the thing as it happened, people, mothers pull their babies out of the way and grown men look worried lest I produce a scalp or fire off a gun.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "183.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I was among those who enjoyed the peaceable quality of yesterday evening. We had a very mannerly meeting. There was no quibbling about terms and no descent into semantics. We didn't fight, although the assistant director of the summer session had solemnly predicted that we would object word-by-word to the title of the conference. We didn't quibble over the word \"novel\". We accepted tacitly the widest possible definition.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "215.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " We didn't fight over the word \"contemporary\". Although as it happened, Mr. O'Connor's contemporary period seemed to end with Proust and the Joyce of the middle period, whereas Mr. Hyman's began just about where Mr. O'Connor's left off. We allowed Mr. O'Connor to have his way with the word \"reality\" and we didn't invite him to define it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "263.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " We let him consign to limbo all fiction that is underlain by an idealist view of the world, not without somewhat irascible protest from one end of the table.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " We heard Mr. West characterize Mr. Ellison's Invisible Man in one of its aspects as Dickensian, whereas Mr. Hyman had previously identified it as a novel, which followed the modern trend of exploiting ritual and myth.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "310.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " One of our members referred to Benjamin Constant. And after a bit of verification, I remind him that that was not one lady he saw Benjamin Constant with last night. That was Madame Trevor, Madame Lindsay, a lady whose name I forget, although it began with B and she lived up in the Alps, and of course, Madame de Stael.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "332.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Some of the things that I have just said I say in order to clarify a few references in this very brief discussion of criticism and the future of the novel. The future of the novel never looked darker than it does today. That is, if we believe what is written about it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " So here we go again. Every so often, someone, and someone, in this case, means critic, writes the obituary, \"the novel is dying\", \"the novel is dead\". Someone, and this time meaning someone not a critic, ought to write, \"the death of the novel\". But let him be ready to add a new chapter every decade or so for the corpse as a nastily inconvenient way of reviving and getting back on its feet again like an eternal Lazarus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "385.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The future of the novel, as a matter of fact, never looked darker than it did in France just about 100 to 120 years ago. A stupendous amount of fiction was being published. The new literacy, which had followed the establishment of Democratic institutions, had produced a public avid for books, one with affluence to buy and with leisure to read. The Industrial Revolution had brought cheaper paper and abundant printers ink. The press had developed into a production machine.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "422.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And Michel-Levy had had the perfectly luminous idea that no law of nature required the publisher to sell an expensive binding with every book. Meanwhile, √âmile de Girardin had invented the modern newspaper, more or less, and discovered that any continued story on the back page, so long as it regularly suspended at a high point in the action, was an immense help for sales.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Fiction prospered. But its quality, by and large, in these years from 1828 to, say, 1858, was perfectly terrible. It was awful, if you look at it as a whole, for the public that was buying newspapers and books had not been brought up in the good classical tradition and it lacked taste. It asked only to be amused and would accept, to the profit of author and publisher, pretty much whatever amused it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "493.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Such demands create a vacuum that nature does not even have time to abhor. We do not even remember the names of most of those who helped fill it with what was mostly simply horrid, hackneyed, monotonous trash. At best, we can name superior ones, Dumas, pere, Eugene Sue.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "530.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But on the roster, indistinguishable to most eyes from the rest, were Balzac and Stendhal, Gozlan and Champfleury, Duranty and Murger. And to most eyes, I say they were indistinguishable from the rest.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "560.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " One of the finest generations of critics France has ever known, men like Jules Janin, Gustave Planche, and the great Saint-Beuve, complained, roared, and snubbed. But the thunders from Parnassus had absolutely no visible effect. The spate of fiction rolled on, regardless, while the critics raised the cry long since familiar to us all. Where is the good old novel of tradition?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "583.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " They seem to have meant the romance in the manner of Scott, who had been popular in their youth, and the realistic episodic yarn, like that of the still widely read Le Sage. And so critic after critic concluded that the day of good fiction had passed. Yet, of course, those years from 1828 to 1857 saw the French novel develop, the true French novel develop.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "617.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Lengthened the period by one decade, so that it will include the beginnings of French naturalism. And it would be hard to find another period which produced so much serious and excellent literature. Balzac and Stendhal fall into its early part, so did the minor realists, so a little later does Flaubert, so do Feydeau and Feuillet, those once popular predecessors of Bourget and Henry James.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "645.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " So toward its close, through the beginnings of Zola and de Goncourt, where was the novel? Well, it was where the great critics weren't looking for it. Saint-Beuve could not abide the cheap coarseness of Balzac. To Stendhal, he preferred the novels of Scott, Manzoni, and Xavier de Maistre, who wrote the monumentally insipid Voyage Autour De Ma Chambre.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "672.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " He did better in understanding Flaubert for he was older in 1857 and knew more, and was not insensitive to the spirit of the times. But still, as his detractors still joyfully remind us, he hardly paid Madame Bovary its due and he had much company.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "707.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The story of how gradually French criticism became aware that men like Balzac, Stendhal, and then Champfleury and Flaubert had changed the nature of the novel, has not even yet been told in its entirety. But this much is clear, for a space, the critics were at least a quarter century behind the times. And in the case of Stendhal, they were even further off the pace.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Why? We had better be attentive to the answer, for these critics may have been any number of things, they were not malicious dolts. Not all of them can have been infected by the animosity regularly attributed to Saint-Beuve. They were educated, careful readers, and men of taste. And some of them, at least, must really have wanted to know where the novel was.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Doubtless, they failed, in part, because they were prejudiced. They had been reared on an aristocratic literature, and the new novel was not aristocratic. And then, it is also true that winnowing the good out of the mediocre was a discouraging task. There was as there always is, from the critic's point of view, too much fiction. But it is true also, however hard to believe this may seem now, that they were unable to discriminate the good from the indifferent when they had the chance.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "785.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Balzac, for instance, was merely another noisy fortune seeker, a rather offensive one, who alienated so many critics that, eventually, almost the only voice raised in his behalf was his own. However much trouble we have in realizing it, Baudelaire and Taine were doing something that marked the beginning of a new day when they spoke out in real enthusiasm for his work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "823.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " For the run of critics, his fictions were too unlike the fictions they knew and admired. His novels bald and squalled. And the similarities of his works with those of Sue-- Look, for instance, at the character, Vautrin, straight out of Sue, until you look at him. --at some length, were all too obvious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "856.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The lesson of the past, then, although it is the only guide we have, is that the past is not to be trusted. Everyone concedes that the novel has no rules and is free to develop in the most unpredictable directions. In any direction, that is, except one. It will not go backward any more than it will stand still.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "880.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The French critics were hamstrung by inability to recognize originality, because they were looking resolutely over their shoulders at what had been written. And so, if you believe me-- And if you don't, why there's our discussion for the afternoon.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "906.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " So do ours, so are ours looking back over their shoulders today. The doubt that Americans read can be dispelled at any drugstore. Somewhere between the fountain and the cigar counter is mute evidence that even a good novel can be sold, if only we put it in soft colors, illustrated with irrefutable proof that woman is, above all else, a mammal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "928.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And most of the fiction is junk, as always. But hidden amid the junk are, or soon must be, the fictions that assure the novel of the future. Our critics are confronted by a sterner task, as the one that faced the French a century ago. They seem, to me, unlikely to do the job any better. The safety of a pre-established rhetoric, based on what the novel has been, is simply too attractive, even to the most influential who least need protection and safety.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "959.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Ortega y Gasset's Notes on the Novel, for example, furnish a fairly convincing argument that the novel, as he understands that word, is nearly extinct. He means those fictions, which have just enough action to satisfy the psychological needs of the reader, who must have something to focus his mind on, but that abound in the rich texture of life that make us provincials in the country of the author and that delve deeply into human motive.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "999.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " His contention that this novel becomes progressively harder to write is not hard to accept. Subject dunny situations do seem to become fewer as time goes on and, certainly, the supply is not inexhaustible. We are unlikely to get many more novels like those of Stendhal, Dostoevsky, and Proust, Ortega's favorites on which his notion of the novel is based.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1036.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But since the writing of his note, we have had successful novels from France, Italy, and the United States, which are full of action, handled the question of motive by recourse to psychologies of obsession, can be said hardly to provincialize us, and convey a blessed little feeling of life's rich texture. In reality, what Ortega says is that the novel is unlikely to repeat itself. And that question hasn't been at issue.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1071.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And yet the American formalist critics-- And may I call attention to my use of the word \"formalist\" because I do not want to confuse them, necessarily, with the people we know as the new critics, although, at times, they may be the same people. The new criticism with its immense contribution in the way of linguistic criticism, I'd like to leave to one side, and simply look at the formalist attempts to understand and judge fiction.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1105.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " These American formalist critics, who have recently turned from poetry to the novel, apparently expect the novel to repeat itself. We have learned much from this group, who have attacked the question of fictional form, armed with the rhetoric originally derived, in large part at least, from the critical prefaces of Henry James.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It is now obligatory to ask their questions of any novel and of any novelist. How does he handle point of view? And we no longer have to say what we mean by point of view. How and in what proportions does he use dramatized scene, portrait, and summary? What rhythms of repeated symbol, emblem or emblematic action? What recurrent juxtapositions of materials characterize the structure?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1165.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " What means does he have of investigating motive and of registering the hidden psychological life of his characters? Does he show us the background of the action or does he make us feel it as climate? Is there a causal relation between what the background is and what the characters do?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1195.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " How does he contrive to station the reader at an appropriate distance from the action? And how does he manage to convey to us the feeling that what happens to his specific individuals is of general human importance? There is, obviously, nothing wrong with asking such questions. But all the same danger in here is in them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1216.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Earlier this year, Caroline Gordon reviewed the late EK Brown study of Willa Cather for the New York Times. Ms. Gordon is an established critic whose pronouncements carry weight. She is a formalist. Her House of Fiction, done in collaboration with Allen Tate, is respected.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1245.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But she reports her dissatisfaction with Willa Cather's books because of a dissatisfaction caused by Ms. Cather's refusal, or lack of disposition, to put a central moral consciousness into her novels. In other words, she would like Ms. Cather's novels better, if they were more like the novels of Henry James.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This judgment has the importance of a symptom. It appears likely that a criticism of fiction, based upon the precept and example of Henry James, is likeliest to predispose the critic toward those novels which are most Jamesian.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " One can only surmise how different the scale of literary reputations would be in America today, if the formalists had not acquired their present prestige. Would Woolf, Farrow, and Dreiser be quite so far from the top, if their work lent itself a bit more easily to formal analysis?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1312.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " We have done our best, of late years, to make a great writer out of Scott Fitzgerald, an easy subject for formalist criticism, while we have let the repute of Sinclair Lewis, about whom a formalist can say all he has to say in any 5 minutes, descend almost to absolute zero. The list could be continued, but let that pass.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1337.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The question here is merely whether a form of criticism, which is not entirely adequate to the literature of the present, will be of much help in detecting superior quality in the novels of the future? The novel of the future, we don't know what it will be. But we do know that it will not repeat itself and we do know that it will not be Jamesian. We have a good Jamesian novelist in our literary history already.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1367.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Meanwhile, our other dominant critical group, whom I'm calling the liberal ideologues, and I hope I'm not going to be asked to define ideology. There was a conference on ideology as it turned out here some two weeks ago.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Liberal ideologues are also intently scanning the past. Critics like Lionel Trilling and Philip Rahv, less interested in literary form than in ideas and cultural attitudes, who, in fact, study the novel as the expression of culture, seeming not in as awkward a position vis-a-vis the future as do the formalist.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Trilling, even though his studies of fiction will add to anyone's enjoyment of reading, is so deeply convinced of the importance of the relationship between fiction and society that he is also convinced that only when manners and morals are supported by a firm social organization does the novelist succeed.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Unless I'm completely misreading the liberal imagination, he is really saying that the novels of which he is especially fond have been the work of authors who lived, or mistakenly thought that they lived, in such a society. Please, note the tense or tenses. No. Please, note the tense of the verbs just above.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1464.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " In the past, such novels have indeed come from such conditions. But will the novel of the future require them? Is Trilling's kind of novel the only kind that can achieve excellence? Trilling is, by common consent, a learned and sensitive critic. But he is looking even so in the direction from which the new does not come.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1491.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " He represents a group of critics who have made much, recently, of ethics. They affirm frequently that the novel is, and I quote, but I quote no one critic, I quote what all of them have said in one way or another, \"an organization of experience by the moral imagination.\" This is far from being the self-evident truth.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1518.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Organization of experience, of course, it is, the novel is, and has to be. But why need the motive of the imagination be moral? There are other motives. Suppose, for instance, that some imaginations are urged on by a drive to reorder experience into something more fair and fit. That drive does not have to be moral any more than our feeling is exclusively moral when we find a pigsty or a slum repulsive.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1545.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Such critics are on firmer ground when they argue that the American novel, in recent years, has failed to take a firm enough grasp on experience, especially political experience, and thus has failed to do the job of reordering where it most needs to be done.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1582.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Philip Rahv's talk about Redskins and pale faces in Image and Idea comes down to some such charge. The novel, such critics say, has failed to cope with the central intellectual problems of our time. They may very well be right, at least as compared with the novels of Malraux, Kessler, and Silone, to mention the three who were always mentioned in this connection.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1606.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Some of our novelists look intellectually still to be in rompers. Be that as it may, the critics are overlooking the nature of the accomplishment of several important recent American novelists. Many of the latter-- I said \"several\" a minute ago. Let me stick to \"several\". Quite a number have spent their literary lives orchestrating one central emotion. Hemingway, Dos Passos, and especially Steinbeck, who rarely writes well, save when he is angry, are prime examples.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1640.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " In another age, such men might well have become lyric poets. Their chief concern is their own relation to the universe, a personal matter. Mr. Rahv is asking them to be concerned with something else. Our public knows this. Sometimes, is embarrassingly aware of it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1680.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " You may remember that, not a year ago, when The Old Man and the Sea came out, an interpretation went flying on the wind around America. Everybody knew what this really meant. The sharks were Hemingway's critics, and so forth and on. I hope that that wasn't true. I hope that that was not Hemingway's intention. But I think it is significant of our reading and comprehension of Hemingway, that a yawn like that could get started. There's a sort of moral truth there that's fairly worrisome.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1704.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Well, as I say, Mr. Rahv is asking our novelists to be something desirable, no doubt, but something that they aren't. After all, everyone can't be Malraux. And as a matter of fact, having watched his conduct closely for some time, I'm fairly convinced that Malraux can't be Malraux all the time either.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1745.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " If we persistently apply wrong categories to the literature of the present, where will we get with the emergent literature of the future? Mr. Rahv's interests are legitimate and honorable. He continues, really, that search, which has been going on for two generations now, for a usable past. Like the formalists' kind of criticism and like Lionel Trilling's, his criticism is performing one sort of function and a useful function.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1769.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But the fact is that we need a criticism which will perform a different one. Its motto will be Baudelaire, to transform delight into knowledge, \"transformer ma volupt√© en connaissance.\" It will be banned, like Baudelaire's, on finding, in the work of art, what is new and unique.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1802.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It will not abandon what we have all learned from the formalists. But it will admit, more than the formalists have admitted in their practice, that considerations of form lead straight to the consideration of ideas, that, for example, characterization and psychological notation change meaning with each new discovery about the mental life of the human animal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1828.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Such a criticism, when it picks up a book like the Invisible Man-- And if Mr. Ellison, who has heard an inordinate amount about the Invisible Man last night and today, can't stand it any longer and gets up and stomps out, I would understand the act and sympathize.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1856.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Even so, when such a criticism picks up a book like the Invisible Man, it will note that Mr. Ellison's novel has, at one moment in it, a situation that sounds like Malraux, certainly, the active worker has been sold out by the people above him in the party. It will say something, perhaps quite a bit, about other underground heroes in Dostoevsky, Kafka, Camus, Celine??, and Bernanos. It may even note that, in places, the book has a Dickensian resonance.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1881.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But an adequate criticism of this novel will also have to become more interested still in the aspects of the Invisible Man, which are unique. One such, and this is simply tossed out as an example-- And it is entirely possible that Mr. Ellison will be first to say I'm wrong, in which case I shall concede the point, but merely argue that my example was badly chosen.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1918.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-one-canvas-1-w-m--frohock-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " One such element is the particular tone of the part of the book which takes place in New York. The hero, a little man caught in the situation that would try a hero of completely tragic stature, is forced to assimilate experience faster than experience can be assimilated with equanimity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1949.0"
+        }
+      }
+    }
+  ]
+}
