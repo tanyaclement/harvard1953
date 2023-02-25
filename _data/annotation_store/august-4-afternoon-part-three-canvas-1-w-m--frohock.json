@@ -1,0 +1,152 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-w-m--frohock.json",
+  "type": "AnnotationPage",
+  "label": "W.M. Frohock",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-w-m--frohock-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I admit I have been reading Cruz with just as much enthusiasm as usual. I don't think that dullness bothers a certain kind of reader. It should. It's a commentary on the man who isn't bothered. To get back to the question that you asked, and which I was perhaps a bit frivolous about, I wonder if Sinclair Lewis's dullness-- which I can't find for myself in the thing like The Man Who Knew Coolidge--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-w-m--frohock-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But I would like to ask Mr. Hyman-- this is partly the cut off my own feet-- whether that isn't because some of the books are what you would call pseudo fictions.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "50.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-w-m--frohock-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But as soon as the theme of time appears, thousands of these details fit in. And I don't favor crossword puzzles. I never worked one in my life, even on a-- in a day coach. And I don't want to work them here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1636.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-w-m--frohock-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But I think that somehow the author-- maybe realism of an extraordinarily flat variety has come to its end for the moment. And I think for an author to deal with these things in a way which maybe has a new meaning, I mean, for him to deal in this way may have a new meaning and may convey it to some readers. But by the all standards set up of an earlier time, you're quite right. Your professor's quite right. He writes for morons.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1647.0"
+        }
+      }
+    }
+  ]
+}

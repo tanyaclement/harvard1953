@@ -1,0 +1,224 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-stanley-hyman.json",
+  "type": "AnnotationPage",
+  "label": "Stanley Hyman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This seems to be the carom question.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "61.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Mr. West reproved me a little for the term pseudo fiction last night. And then, he suggested that many traditional fictions would probably be called pseduo fiction. I think as I was using it in a limited sense, it means a bad book. That is, it means a book that doesn't come alive, that hasn't grown--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "67.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " --that hasn't shaped its experience into any kind of effective, any kind of imagined-- the thing I hate to keep harping on those words. But I don't seem to have any others. About Sinclair Lewis, the truth of the matter is, I suppose, I'm a little of both parties in that I've never read much of him. And I probably wouldn't and would find him dull. But that I would agree that our criticism, every variety of it has its fashionable writers.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "87.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And even if he were better, he would just not be one of its fashionable writers at the moment. That is, criticism carries along with it, as Mr. Frohock said, a certain number of writers who do what it thinks should be done. And I suspect that all of those criticisms are reductive, that all of our criticism-- certainly much of what we heard last night-- seemed to be saying that one kind of novel was it. And you can more or less throw the others out.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " That is we have an alarming tendency to prescribe for the novel rather than to report what it's doing. And I suspect that probably the silliest of all critical positions is that connote position of telling the writer to go and do something else. I suspect that Mr. O'Connor, who is in the curiously ambiguous position of being both critic and novelist, can carry that off better than most of us.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "146.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-stanley-hyman-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I think he played a little fast and loose with us last night in telling a great body of novel to go die, while at the same time saying that much of it he rather liked and would perhaps admit that some of his own work is actually part of that fine modern literature he was excommunicating for us. But I don't think that Sinclair Lewis in any fashion is much of a problem-- that is, he isn't much read. He's probably not the novel of the future more than Henry James. And specifically, I have nothing at all to say about him.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "171.0"
+        }
+      }
+    }
+  ]
+}

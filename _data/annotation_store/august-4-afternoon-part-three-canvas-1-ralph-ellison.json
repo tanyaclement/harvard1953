@@ -1,0 +1,152 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-ralph-ellison.json",
+  "type": "AnnotationPage",
+  "label": "Ralph Ellison",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-ralph-ellison-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " --say something which will go a little bit beyond Sinclair Lewis. In the first place, we don't expect novels-- even great novels-- to stay fashionable constantly from year to year. They are encounters with experience, after all. And they are like-- and all novels, I think-- demand that we bring something to them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "209.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-ralph-ellison-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " What I'm trying to get at is there was a time when Sinclair Lewis did quite a bit for our awareness of ourselves as Americans, as members of society. I don't think that they are great art. We had the need at that time to have these things formulated for us. Babbitt is still a term, even though its meaning it's changed from the malignant over to the benign INAUDIBLE .",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "241.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-ralph-ellison-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But nevertheless, he performed that function. And now, the emotion which we brought to it, and the lives of our own imagination which we brought to his words has receded. We are looking to place him elsewhere. There will be a time when-- I suspect-- when people will be reading Sinclair Lewis again and saying, this man is a classic. This is wonderful writing. And you'll have your Lewis cults just as we have our Fitzgerald cults.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "274.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-ralph-ellison-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think it works that way. I think it's because the novel does communicate, because it must be fired-- like any work of art-- by the emotions, ideas, feelings of an audience. Thus, we have works which come up. They come into being and called into being through certain needs on the part of the viewer, the reader, listener. And after that need recedes, after the time changes-- and they must exist in time and can only exist in time-- they go into the veil.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "314.0"
+        }
+      }
+    }
+  ]
+}

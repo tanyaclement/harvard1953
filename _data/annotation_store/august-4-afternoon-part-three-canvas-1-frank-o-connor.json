@@ -1,0 +1,224 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-frank-o-connor.json",
+  "type": "AnnotationPage",
+  "label": "Frank O'Connor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Well, Mr. Collins, you are right on your feet.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I'm afraid that question is really too difficult for me. I don't know that I've got it quite clearly. I agree with Mr. Ellison's point about the novel is a communication. But it's obviously a great deal more than communication.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1803.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The novel is also a work of art. And that we're rather inclined to forget. That is, whether we like the term or we don't like the term, it's organized. And it's organized according to a certain system.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1823.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now I don't think these particular proletarian novels are works of art. Undoubtedly, they're communication. They were going on all through the 19th century. They're not regarded as great 19th-century novels.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1837.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " You've got novels describing the appalling conditions in the Lancashire mill towns. And they are a merely communication. Their principal object is not the creation of a work of art. It's not the creation of a work of beauty.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1851.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-three-canvas-1-frank-o-connor-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It is to express the writer's views upon industrial conditions or some other sort of conditions, conditions of the war. We got a great mass of these after the First World War. And they've all, as far as I know, disappeared because they weren't works of art. They merely were works of communication.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1871.0"
+        }
+      }
+    }
+  ]
+}
