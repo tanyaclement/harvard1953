@@ -1,0 +1,116 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-four-canvas-1-ralph-ellison.json",
+  "type": "AnnotationPage",
+  "label": "Ralph Ellison",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-ralph-ellison-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Yes. I think that that-- that's the writer's business. And oh, if INAUDIBLE  was to write and to describe reality with as much truth and-- god, here I go-- beauty, he's writing works as he's possible to achieve. And he-- if he has any other role to play, it-- it is to reveal the mystery and possibility inherent in given reality.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-ralph-ellison-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But beyond that, you have politicians, experts on social organization and a whole apparatus who function in their own way. But I don't-- for the life of me, I don't see how-- how a writer can do anything more than write. It's a terrifically difficult thing, this business of trying to decide what is real, what is valuable, what is-- is reality.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "207.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-ralph-ellison-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " People who want to-- I mean, you see him again, you-- you-- well this will lead to asking the writer to get out with-- on the picket line. Which is all right with me, but it isn't writing. And I don't think the two functions should be confused. I think that-- that there is enough pain, there's enough psychological misery involved in really grappling with reality in terms of art. And that the sheer job of mastering art, especially in a time like ours when the corpus of the novel and then the technique of the novel, the ideologies of the novel is so bad.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "235.0"
+        }
+      }
+    }
+  ]
+}

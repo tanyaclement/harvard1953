@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-four-canvas-1-frank-o-connor.json",
+  "type": "AnnotationPage",
+  "label": "Frank O'Connor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-frank-o-connor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't know if that's answering the question, but then as I said, I'm not quite clear about the significance of the question. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-frank-o-connor-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I wasn't aware that that was what I was saying. I don't feel-- I feel that, on the contrary, the novel since the war-- since the last war in Europe-- has become more and more objective. There is more and more a throwing over of the Joycean, Lawrence Gide, and indeed the Faulkner type of novel.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-frank-o-connor-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " In that book which I was referring to last night, SPEAKING FRENCH , he describes the middle classes of Europe committing suicide. And he describes them in terms of a French bourgeois who comes home at night to his wife and children-- wife and daughters. INAUDIBLE  thinks all the bad literature of our time derives from the fact that it's all written for women.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-frank-o-connor-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now that doesn't mean just going back to the 19th century novel. Obviously you can't do that. You can't go back to a form of society which no longer exists. It does mean, as Mr. Lytle said earlier-- INAUDIBLE  the one statement with which I found myself heartily in agreement-- that it's the relationship between the internal man, between the god within you and the reality outside you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "98.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-afternoon-part-four-canvas-1-frank-o-connor-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This is a return to morality INAUDIBLE . Is the writer's obligation to interpret his society with a negative capability, or to repair it that somebody INAUDIBLE",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "128.0"
+        }
+      }
+    }
+  ]
+}
