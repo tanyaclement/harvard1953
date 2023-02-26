@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "August 4, Afternoon Part Two" ] },
+    "homepage": [
+      {
+        "id": "https://id.lib.harvard.edu/alma/99156329279403941/catalog",
+        "type": "Text",
+        "label": { "en": [ "August 4, Afternoon Part Two" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://library.harvard.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harvard Library" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1965.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 1965.0
+                },
+                "target": "https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
