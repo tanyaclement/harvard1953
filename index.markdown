@@ -20,8 +20,8 @@ layout: home
 ## August 4, 1953
 ### Afternoon
 <ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Session Introduction</a>, Carvel Collins</li>
-<li style="list-style-type: none;">Lecture, W. M. Frohock, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and Part Two</li>
-<li style="list-style-type: none;">Panel Discussion <a href="">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
+<li style="list-style-type: none;">Lecture, W. M. Frohock, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</li>
+<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
  </li>
 </ul>
 
