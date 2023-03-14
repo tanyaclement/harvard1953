@@ -46,5 +46,5 @@ layout: home
 <ul style="list-style-type: none;">
 <li>Opening Remarks, Carvel Collins	</li>
 <li>Lecture: "Paperback Books and the Writer," Hilda Livingston</li>
-<li>Lecture: "The Editor and The Author," William Sloan</li>
+<li>Lecture: "The Editor and The Author," William Sloane</li>
 <li>Roundtable Discussion</li> </ul>
