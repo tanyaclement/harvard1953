@@ -6,4 +6,4 @@ permalink: august-3-evening-part-one
 external_manifest_url: 
 
 ---
-This page will tell more background about these recordings. 
+
