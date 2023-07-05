@@ -6,7 +6,7 @@ layout: default-nonav
 ---
 <p align="center"><img align="right" width="35%" height="35%" src="fullsizeoutput_1950e.jpeg"/></p>
 
-## August 3, 1953 -- testing
+## August 3, 1953
 ### Evening
 <ul style="list-style-type:none;">
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
