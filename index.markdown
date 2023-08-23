@@ -29,8 +29,8 @@ layout: default-nonav
 
 ### Evening:
 <ul style="list-style-type: none;">
-<li>Opening Remarks	Carvel Collins</li>
-<li>Lecture: "The Era of the Novel?," George Simenon</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Opening Remarks</a>,	Carvel Collins</li>
+<li>Lecture: "The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and Part TWO, George Simenon</li>
 <li>Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison</li> 
 <li>Response to Simenon and Ellison, W.M. Frohock</li> </ul>
  
