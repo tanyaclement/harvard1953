@@ -22,7 +22,7 @@
       {
         "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 1981.0,
+        "duration": 3204.0,
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one/canvas-1/paintings",
@@ -34,7 +34,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "",
-                    "duration": 1981.0
+                    "duration": 3204.0
                 },
                 "target": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-one/canvas-1/canvas"
               }
