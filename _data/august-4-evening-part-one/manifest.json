@@ -32,14 +32,6 @@
               "none": ["Program"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-one-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
         ],
         "items": [
           {
