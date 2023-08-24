@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-two-canvas-1-wgbh-radio-announcement.json",
-            "label": {
-              "none": ["WGBH Radio Announcement"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-two-canvas-1-anthony-west.json",
             "label": {
               "none": ["Anthony West"]
