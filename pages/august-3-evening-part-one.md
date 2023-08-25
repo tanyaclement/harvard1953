@@ -6,4 +6,4 @@ permalink: august-3-evening-part-one
 external_manifest_url: 
 
 ---
-
+On the first evening of the conference, held in Sanders Theater in Memorial Hall at Harvard University on August 3, 1953, Professor Carvel Collins was introduced by William Yandell Elliott, Director of the Harvard Summer School. Collins, in turn, welcomes the participants in the audience for the night's speakers as well as the participants to the conference in the coming days. This recording also includes Stanley Hyman's lecture "New Trends in the Contemporary Novel" and the first part of Frank O'Connor's lecture "The Modern Novel." The second part of O'Connor's lecture can be found on the next recording, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">August 3, Evening Part Two</a>.
