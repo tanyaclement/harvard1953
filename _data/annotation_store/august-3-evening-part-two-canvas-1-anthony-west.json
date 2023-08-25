@@ -1,0 +1,2348 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-two-canvas-1-anthony-west.json",
+  "type": "AnnotationPage",
+  "label": "Anthony West",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Ladies and gentlemen, Mr. Chairman, after the banquet and the washing up, the first thing that really struck me in Mr. Hyman's speech was the idea of myth and ritual as a basis for art and the novel. It made me think of William Morris and the sad occasion in pre-Raphaelite history when Mr. William Morris was reading aloud from one of his pseudo-Norse sagas, with a strong mythological basis, to Dante Gabriel Rossetti.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1496.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Morris had the experience, which many people have had when reading aloud, that the other mind in the room slowly closed down and shut itself off. And a silence fell, and ultimately Rossetti became aware of it. And he broke it with an apology, which was at the same time a piece of criticism.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " He said, I find it awfully difficult to take a real interest in a man whose brother is a dragon. This is the fundamental basis of failure in any art form which relies on myth in a literate society-- opinions are various, the myth is not universally acceptable, and the conditions break down.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1564.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " We have a great many relics of myth-based cultures, such as The Iliad and The Odyssey, which we know how they were produced. We know the conditions which gave them life. There was a culture with a unified field. The mythology was common property. The basis of the epic was common property. The audience knew every part of it through constant repetition.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1591.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The Iliad, as we know it, took its form over a process of about 600 years, annual and biennial and seven-year festivals, which the audiences came together to hear poets give this thing tiny variations in form. The metrical, metaphoric character, but the basis of structure remained the same.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1621.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't believe in our society, which cannot agree on any single myth, that we can support, for any period, this constant repetition that a myth involves. The individual's search for his identity, if we reduce it to a pattern of an individual, or with specific characters, characteristics, in search of fulfillment of a specific kind, it opens up a vista of intolerable monotony before us that David Copperfield-- if we accept our type individual as David Copperfield, that every young man at the crisis of his life, which Dickens then was, when he was achieving his personality, but was not quite satisfied with its effect on the outside world, he rewrote his youth.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1648.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " If we had every young man who reached that stage of development giving us the same story, with his little variation of personal experience, the novel would become a torment to us. The prospects of the novel, in any case, are, I think, rather tormenting, we look at them with considerable fear and horror. We have had about 250 years of it, and it may go on like Chinese poetry. We may have novels going on in a literate society for another 600 or 700 years.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I very much hope that, if I'm alive during that 600 or 700 years, it won't have a myth basis. Because all the variousness, the richness, and the fluidity of form and content which it enjoys will inevitably be expelled.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1740.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think the idea of a blend of naturalism and myth, which I think Mr. Hyman suggests would keep it alive, that the constant injection of personal experience into a myth form would give it a variety, is a fallacy. We have had various art forms in which myth and realism have tried to coexist, and they had a very uneasy time of it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1759.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The most obvious example, I think, that sort of puts the thing in the simplest form is to take painting-- where we have, in a very short period, the movement from icon to a sort of realism myth of things like the Matthias Grunewald altarpiece, to Manet's picture of the dead Christ. And it isn't clear that realism has destroyed the value of the symbols.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1789.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " If you look at a Byzantine icon, you see concepts, you see ideas given a very formal pattern, which are universally valid. You're not dealing with anything particular or special, you are dealing with the cosmology, with the ideas of the Christian church in a compact form, which are available instantly to every Christian who sees them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1818.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " When you get to the Grunewald altarpiece, you have got beyond the universal application of the symbols-- you are faced with an instant, you are faced with a man at a particular phase of his life, as sufferings. The body has just died, it's about to begin to corrupt. The thorns are there, which will presently fall away-- they're material objects trapped in an instant of time. And they have already acquired the transitory value of an instant, and they have moved away from the permanent moment of the valid symbol.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1845.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " When you finally come down to the Manet picture, it's a purely formal exercise with a cadaver from a mortuary. And the instant has passed-- all significance is drained away. And you wonder why Manet painted it. There is no focus of vitality or life on the picture at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1887.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think that this uneasy marriage of naturalism and myth is an impossibility. Then we went on-- Mr. Hyman went on to talk of the pseudo-novel, in very severe forms, the novel which was a disguised report. And I was rather astonished that he spoke with such severity of this form, which seems to me an extremely old one.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1914.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Benjamin Constant beginning with a modern novel with that extraordinary exercise, the psychological novel of the relations of two people, which doesn't change throughout the book, but which is a revelation of two complete personalities. We know how autobiographical it is-- it's near a picture-- it's a picture as near to a picture of himself as he can paint, and the woman is as near to a portrait of the woman he knew and was longtime associated with as he could possibly make it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1946.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " At a very high level, it's reportage. And the greatest novelist of all, I think, the unchallenged master of the realistic 19th century novel, created an enormous, complete world, and an enormous population to inhabit it, Balzac-- as we know, his method was to report as closely as possible on the reality under his observation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1979.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The particular example, I think, which is almost like a shorthand report of evidence, is the Distinguished Provincial in Paris-- we know that Balzac was the confidant of George Sand who confided every detail of her relationship with Jules Sandeau, and the relationship went straight into the book. And it is there, like a series of instantaneous photographs. The imagination has worked on the fact, and produced something which I don't think it's possible to call anything but magnificent.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2009.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I had an uneasy feeling, too, when I was hearing Mr. Hyman talk of the tendency of writers to drop into self-parody as something new. I think we have known for a long time that people get old, and writers get old like everybody else. And most writers, after they are 40 or 45, cease to receive new material, and they are dredging at a reserve-- impression and a backlog of experience-- which is all they're going to have.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2051.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And as they get tired, and their control of their method softens off, they produce things which are weaker versions of what they have already written. Yesterday, we had Sinclair Lewis very sadly doing that in public. And the day before yesterday, we had Conrad at the end of his life producing The Rover. I don't think it's possible to say that the exhaustion of writers and their lapse into self-parody is a new thing at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2085.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The obsession with homosexuality, which Mr. Hyman touched on, seems to me to be a more important thing for the novel than he allowed it to be. I don't think it's a matter of individual attitudes, really, it comes from the very nature of the novel-- which Mr. O'Connor said was the art form of the middle class.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2122.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The point about the homosexual, the accepted point, is that he's sick-- mentally sick. He's out of control. And he's not responsible. He is a man who has gotten himself into a category, and he's not really an effective free agent.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2152.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The dramas, the novel, in which our novelists involve such people, are dramas of trapped people. I think the clue is in this. Balzac's world, which is one in which Rastignac can, in all seriousness, at the most depressing and shattering moment of his life, can go apart to a hill overlooking Paris, and challenge society inwardly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2172.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " He swears that he will master Paris and he will master all that Paris stands for. In fact, he is a free-- an entirely free man, who is going to make his own terms with destiny. And the century which produced Balzac, produced Rastignac, was firmly of the opinion that what was unsatisfactory about the world could be, by the use of reason, the concerted effort of reasonable men, could be very much improved. And that when you got away from the mass category of reasonable men down to individuals, that they could make their terms with fate, subtle what they like.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2207.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The great thing which has happened to the middle class senses a loss of courage and a loss of faith as a group in that idea. And I think that is symbolized by the movement of the novel. The modern novel's type figure, which is not anything like Rastignac. It's Kafka's nameless individual who is trapped in a machine that he can't understand. And he's ultimately killed for no reason that he can arrive at, like a dog.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2251.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " You get this type figure occurring at every level, from best sellers down, or up, whichever you like to put it, to the most Avant Garde literature. James Jones' Trumpeter is the individual ground down by a social force, by the army, by the brutality of society and having an instrument like the army.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And at a very different level, the core of Hemingway is more explicitly, more consciously, saying the same thing-- the end of To Have and To Have Not is the moral that the dying Henry Morgan forces out with his life blood as he lies dying, is to say, a man alone hasn't got a chance.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This is an absolutely unthinkable statement 60 years ago, or 90 years ago, for people to take seriously. They believed that a man alone was responsible for himself. He was not in a hopeless position doomed to failure.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2346.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The basis of all of Hemingway's thought is that a man alone is doomed to failure. The only thing worth being is a man of action with a hunter's honor, and that that is something which society has no place for.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2366.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It's the same doctrine behind Intruder in the Dust-- really the final scene when the man walks through the town with his pride, is a scene of tragic import. The man is alone in a town which knows none of his values. There's that lament at the end of it for the car-owning, dishonorable, money-grubbing society, in which the hero, in his hour of triumph, is entirely meaningless.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2382.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " You remember Edmund Wilson's wonderful essay about Hemingway, which called him the gauge of morale, like the morale is out of the middle class explicitly in his essay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2417.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It seemed to me, too, that Mr. Hyman was a great deal less than just to Forster, in who return he said that in Forster, sin had become a matter of bad taste. I think there is a level of-- impressive level of weakness about Forster's work, but I think that's a technical impression because of the technique he adopted-- the tea-tabling technique, the description of shocking events, of violent events, in terms which you could do it over a tea tray with lace cloth on it, silver cups, and so on. The great Edwardian English technique of adopting as your standard of expression the conversation of a well-bred man.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2436.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think that does great injustice to his content. The sin, in Forster's work, is of not speaking from the heart in matters of importance, in human relations. It's in a way, it's the well-bred declaration of the great theme in Lawrence's work-- the crime against life, which is the breach of the flow of complete honesty between honest people.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And Forster's work is all about a conflict between the children of warmth and light, who are candid and absolutely ruthless in their declaration of themselves, and the children of darkness, who are cold-hearted and hypocritical. And The Passage to India, which seems to be about the troubles of a rather ineffectual man, is-- I think it has the same intention as Shaw's Heartbreak House, and it's a much more dignified tragedy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2525.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It's an expression of the failure to bridge a gap that could have been bridged by unfrozen and unfrightened hearts. And it's really the tragedy of the British failure in India, in individual terms, I think is a very magnificent novel.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2562.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I must say that I found it very hard to take the expressions of admiration for Kafka's Metamorphosis, which does seem to me, in essence, what is wrong with a large number of modern novels. It is a private view of a private obsession. And I think you can read into it almost anything you like, because it has no definition and no formal relation to any accepted body of thought.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2588.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It doesn't spring from any tradition. It's an individual cantrip-- a freak. And it has a sort of reputation at the moment, I think, is an entirely delusive one, because by having neither form nor substance, it enables anyone who reads it to write their own poetry, their commentary becomes the work. You import your own feelings into it and make it something.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2624.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " By the standards of the 19th century, what would a reasonable man think of this story? The story of the boy who imagines that he is turning into a beetle, and who is worried because he smells like a cockroach, and so on? So this is silly stuff. And I think that basically is what it is.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2653.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think The Trial is a great deal less silly. But I think there, again, we have a particular thing, a very private impression, which is expressed in such a manner that you can pin anything to it. Kafka was-- who existed on the fringe of the Austrian empire. It was the most cumbersome and the most corrupt bureaucracy that the world has ever seen, and it governed the most brilliant and sharp-witted group of people who exist anywhere in the world-- the people who live in the trouble corridor which is now behind the Iron Curtain. People who, by centuries of living under oppressions of various kind, have developed an extraordinary razor-like satirical technique and a wit entirely of their own.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2675.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I believe that Kafka's Trial is a witty parody of Austrian life as it was lived by a very brilliant Jew who was in a Czech, and had no place in any particular life or society, and was under the shadow of this great, cumbersome, creaking machine. It is a symbolic treatment of that situation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't believe it applies to the conscience, and I don't believe it has any of the depth, which nearly 50 years of arduous work have given-- or 30 years of arduous critical work-- have enriched it with. We have had a great many exciting feelings about it. We have pinned them to it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2751.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think some of our critical results are perfectly fascinating. I think the Kafka thing, when you look at it, and go really through it, you find that it's a most brilliant piece of writing. Nobody has described action so well. Known has described impressions of action by somebody going through it so well.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2773.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " There's the actual use of language is, I think, extraordinarily impressive. And nobody who wants to write can do better than read Kafka, just for the sake of seeing how when the reader is told what happens. But I think that is where it ends.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2795.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I feel very reluctant to say anything about what Mr. O'Connor said in his lament for the 19th century novel. One hears these magnificent cries over grave mounds, and one throws one's ash on the thing and melts away with the rest of the crowd and leaves it at that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2821.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But even so, I think Mr. O'Connor's Dead Man is, while rusted, he shows signs of life all the time to me. I think a few years back, we had Guard of Honor, which is a middlebrow novel-- it's not a work of enormous sensitivity, and it's not a work of very fresh ideas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2845.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But it is a picture of that air base down in Florida, and particularly MacDill Field, and the set of circumstances, it's rich in characters, and incident follows incident. It's extraordinarily convincing, and has color and movement. And I must say, it seems to be the 19th century novel at the old stand working just about as well as it can work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2871.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " If the man had also been a great genius, and he'd had a great view of society, if he could have just given it a little more, we would have had something very exciting indeed.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2899.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I think we have today a 19th century novelist who is full of vigor and life, who has a view of a particular social question, which is just as moving. He has strong moral feelings about it, he's writing just like Dickens about it. That is, the author of the Invisible Man.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2910.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't think when you read that, when you read the extraordinarily vivid actual descriptions of the man eating the hot yams by the street stand, the riot in Harlem, and so on, this is the Dickensian technique, and it is alive and it's working. And I don't see any reason why it shouldn't go on working.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2932.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I feel as sure as anything that, as long as we have people with moral indignation, and with large-- I might say rather loosely buttoned imaginations-- we'll go on getting those great, expansive, joyful, and moving vehicles.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The thing that we have is a society which has a great many facets. It is not the sort of unitary society which can produce a myth. It's unthinkable that we should now have a myth that should be acceptable to every single element in our community.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2982.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But it is a community which is conscious all the time moral issues. We open our newspapers and moral issues bark at us. And when we live our lives, we are rubbing our noses against them all the time. That is the life of the 19th century novel, and it is there.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3004.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I would say that the obscurantist novel, the novel of private impression, the novel which demands that you learn a new language, like Ulysses or Finnegans Wake, seems to me to have less and less possibility. Joyce was-- it's almost impossible to understand Ulysses unless you were at school with Joyce in Dublin.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3026.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I have talked over various passages with a man who was at school with him in Dublin, and page after page, it was as if one was looking through an old fashioned camera with the ground glass panel at the back. And you turned the screw, and the thing came up in focus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3049.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It seems to me to make an impossible demand on the reader, and an impossible demand really on the critical apparatus. Because if the number of people who are preparing keys for Ulysses, and so on, is as great as ever, and we're still far from attaining anything like complete understanding of it. You really have to become Joyce's perceptive mechanism to understand it at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3069.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " People are resolutely as ever writing their private impression novels, but I think the phase of leisure, intellectual curiosity, which briefly existed in the '20s, has passed. There will be times again when we have periods of intellectual excitement, combined with the sort of material ease which will produce that sort of thing. It's inevitable-- it should be so. There have always been such episodes in the past, and there will be again. But I don't think it's any immediate trend in the novel is like to spring out of that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3096.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I was rather impressed by what Mr. O'Connor said about Proust's annihilation of the external world-- his belief that his demand that you submit entirely to his impression. I think that's a little unjust to Proust. This, to base all this on the idea of the love which is reflected in some of the main personal relationships.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3141.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " As a matter of fact, the images of a debt, which exist in the minds of her immediate admirers, are contrasted with images which are in the eye of an external being. The objective world does exist.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3171.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I only recall at this moment one incident where it's perfectly plain that that does happen-- a scene on the Champs Elysees, when the chestnut trees are in bloom. And it is towards noon, and all the smart Parisians are in their barouches and the carriages, and the men riding by. The two oldest gentlemen, passing under the chestnuts in their gray top hats-- a debt crisis carriage comes by.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3191.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And one old gentleman strokes his mustache and nudges the other and said, that's a debt crisis. I had her the night McMahon's government fell. It seems to me quite clear that a debt is visible to other eyes, and those are Swann's obsessions of what these old gentlemen are looking at her from somewhere quite outside that thing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3222.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It seems to me that the great thing in Proust, which gives the book its life and vitality, is that it's not a monatic view of life, but I'd say it's a work in which there's a constant flow to and from the illusions of the characters and a report of the characters as they actually exist. It's a much richer thing, I think, than Mr. O'Connor allows it to be.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3247.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't think that there's any possibility of summing up these two extremely diffused-- these extremely opposed and unrelated views.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3288.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I'm sorry, I do this extremely badly. But it does seem to me that while you have such a wide view of what the novel is, what its prospects are, you come down ultimately to the fact that it is a remarkable form. It's like the mind of the middle class-- it has no particular shape, no particular form. It's open to new ideas, it's closed to any rules.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3307.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The novel is something infinitely flexible. It has no limitations of subject. All of life can be crammed into it. It allows people to preach, it allows people to report objectively, it allows people to give photographic pictures, allows people to give abstract interpretations. In all, it is a thing which may take any pattern as the society changes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3333.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " At the moment, it is depressed and unoptimistic, because the prevailing view of life, and the class which produces it, is unoptimistic and timid. I think we may be in for one of those periods, like the Baroque period in painting, when everybody is working very hard producing contorted brown pictures, which are not much fun. Painting is asleep for a time.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3362.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-anthony-west-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " That period, it can come alive any minute.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Response to Hyman and O'Connor",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3388.0"
+        }
+      }
+    }
+  ]
+}
