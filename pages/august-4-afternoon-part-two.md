@@ -6,4 +6,4 @@ permalink: august-4-afternoon-part-two
 external_manifest_url: 
 
 ---
-The first afternoon, August 4, session discussion continues from <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a>. After this recording, it continues to <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part Three</a>. 
+The first afternoon, August 4, session discussion continues from <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a>. After this recording, it continues to <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Three</a>. 
