@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-hilda-livingston.json",
-            "label": {
-              "none": ["Hilda Livingston"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
