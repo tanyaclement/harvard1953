@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-program.json",
-            "label": {
-              "none": ["Program"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-panelists.json",
             "label": {
               "none": ["Panelists"]
