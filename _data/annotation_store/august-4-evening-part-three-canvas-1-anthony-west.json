@@ -1,0 +1,143 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-three-canvas-1-anthony-west.json",
+  "type": "AnnotationPage",
+  "label": "Anthony West",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-evening-part-three-canvas-1-anthony-west-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That makes it very difficult, indeed, to go on being serious. But the only thing which I must say really appalls me very much indeed in this discussion is the phrase an American reality. To think that after a century of the horrors of nationalism, we should start pegging out national areas of reality is so appalling that I can hardly bear to think of it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 4 Panel Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1049.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-evening-part-three-canvas-1-anthony-west-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It does seem the ultimate in the decay of the idea of Christendom, which has taken place in the last 1,000 years that you could come even to be provincial in your conceptions of reality. I had hoped that we had gone forward to that from that, that we were only concerned with the reality of human beings with which human beings have to deal, that we had gone away from those small, small conceptions of local pictures. All right.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 4 Panel Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1074.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-4-evening-part-three-canvas-1-anthony-west-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't remember ever having said that people weren't buying novels or reading them. That must be somebody else, I think. They are, so far as bulk is concerned, reading, I think, more than they ever did before. There's a literate public which never existed before, which I don't think has much use for novels, which has a great bulk of literature supplied to it, which is rather overwhelming in comparison to the novel and makes it look as if the novel was less being sold and read less than it was. But I don't-- I think that's an optical illusion and not one which statistics support.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 4 Panel Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1590.0"
+        }
+      }
+    }
+  ]
+}
