@@ -23,6 +23,48 @@
         "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-one/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3267.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-hilda-livingston.json",
+            "label": {
+              "none": ["Hilda Livingston"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-carver-collins.json",
+            "label": {
+              "none": ["Carver Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-william-sloan.json",
+            "label": {
+              "none": ["William Sloan"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-one/canvas-1/paintings",
