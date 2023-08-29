@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-anthony-west.json",
-            "label": {
-              "none": ["Anthony West"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-andrew-lytle.json",
             "label": {
               "none": ["Andrew Lytle"]
