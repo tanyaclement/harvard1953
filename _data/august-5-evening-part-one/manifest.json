@@ -56,14 +56,6 @@
               "none": ["Audience"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-william-sloan.json",
-            "label": {
-              "none": ["William Sloan"]
-            }
-          }
         ],
         "items": [
           {
