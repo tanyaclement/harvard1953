@@ -21,7 +21,7 @@ layout: default-nonav
 ## August 4, 1953
 ### Afternoon
 <ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Session Introduction</a>, Carvel Collins</li>
-<li style="list-style-type: none;">Lecture, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a>, W. M. Frohock</li>
+<li style="list-style-type: none;">Lecture: <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a>, W. M. Frohock</li>
 <li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
  </li>
 
@@ -30,9 +30,9 @@ layout: default-nonav
 ### Evening:
 <ul style="list-style-type: none;">
 <li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Opening Remarks</a>,	Carvel Collins</li>
-<li>Lecture: "The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and Part TWO, George Simenon</li>
-<li>Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison</li> 
-<li>Response to Simenon and Ellison, W.M. Frohock</li> </ul>
+<li>Lecture: "The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">Part Two</a>, George Simenon</li>
+<li>Lecture: <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">"Certain Neglected Aspects of the American Novel,"</a> Ralph Ellison</li> 
+<li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-three">Response to Simenon and Ellison, W.M. Frohock</a></li> </ul>
  
 ## August 5, 1953
 ### Afternoon: 
