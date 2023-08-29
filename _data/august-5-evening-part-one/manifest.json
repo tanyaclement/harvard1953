@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-carver-collins.json",
-            "label": {
-              "none": ["Carver Collins"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
