@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-harold-humes.json",
-            "label": {
-              "none": ["Harold Humes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-two-canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
