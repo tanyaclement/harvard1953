@@ -23,6 +23,64 @@
         "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-panelists.json",
+            "label": {
+              "none": ["Panelists"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-william-sloan.json",
+            "label": {
+              "none": ["William Sloan"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-george-simenon.json",
+            "label": {
+              "none": ["George Simenon"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-carver-collins.json",
+            "label": {
+              "none": ["Carver Collins"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four/canvas-1/paintings",
