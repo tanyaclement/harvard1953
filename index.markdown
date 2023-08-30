@@ -37,13 +37,13 @@ layout: default-nonav
 ## August 5, 1953
 ### Afternoon: 
 <ul style="list-style-type: none;">
-<li>Opening Remarks, Carvel Collins</li>
-<li>Lecture, Hans Egon Holthusen</li>
-<li>Session Discussion</li> </ul>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Opening Remarks</a>, Carvel Collins</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Lecture, Hans Egon Holthusen</a></li>
+<li>Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two">Part Two</li>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three">Part Three</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four">Part Four</a>. </ul>
 
 ### Evening: 
 <ul style="list-style-type: none;">
-<li>Opening Remarks, Carvel Collins	</li>
-<li>"Paperback Books and the Writer," Hilda Livingston</li>
-<li>"The Editor and The Author," William Sloane</li>
-<li>Panel Discussion</li> </ul>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-one">Opening Remarks</a>, Carvel Collins	</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-one">"Paperback Books and the Writer,"</a> Hilda Livingston</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-one">"The Editor and The Author,"</a> William Sloane</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-two">Panel Discussion</a></li> </ul>
