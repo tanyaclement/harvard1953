@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-program.json",
-            "label": {
-              "none": ["Program"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-ralph-ellison.json",
             "label": {
               "none": ["Ralph Ellison"]
