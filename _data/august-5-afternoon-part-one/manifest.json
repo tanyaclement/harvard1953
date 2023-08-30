@@ -23,6 +23,48 @@
         "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-one-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-one-canvas-1-program-.json",
+            "label": {
+              "none": ["Program "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-one-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-one-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-one-canvas-1-hans-egon-holthusen.json",
+            "label": {
+              "none": ["Hans Egon Holthusen"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one/canvas-1/paintings",
