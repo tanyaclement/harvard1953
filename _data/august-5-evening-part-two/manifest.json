@@ -23,6 +23,88 @@
         "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2541.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-w-m--frohock.json",
+            "label": {
+              "none": ["W.M. Frohock"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-hilda-livingston.json",
+            "label": {
+              "none": ["Hilda Livingston"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-william-sloan.json",
+            "label": {
+              "none": ["William Sloan"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-george-simenon.json",
+            "label": {
+              "none": ["George Simenon"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-andrew-lytle.json",
+            "label": {
+              "none": ["Andrew Lytle"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/paintings",
