@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-one-canvas-1-carvel-collins.json",
-            "label": {
-              "none": ["Carvel Collins"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-one-canvas-1-program.json",
             "label": {
               "none": ["Program"]
