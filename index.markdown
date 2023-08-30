@@ -11,8 +11,8 @@ layout: default-nonav
 <ul style="list-style-type:none;">
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Conference Opening Remarks</a>, Carvel Collins</li>
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Lecture: "New Trends in the Contemporary Novel,"</a> Stanley Hyman</li> 
-<li style="list-style-type:none;">Lecture: "The Modern Novel," <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Part Two</a>, Frank O'Connor 
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">"New Trends in the Contemporary Novel,"</a> Stanley Hyman</li> 
+<li style="list-style-type:none;">"The Modern Novel," <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Part Two</a>, Frank O'Connor 
  </li>
  <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Response to Hyman and O'Connor</a>, Anthony West</li>
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Panel Discussion</a></li>
@@ -21,8 +21,8 @@ layout: default-nonav
 ## August 4, 1953
 ### Afternoon
 <ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Session Introduction</a>, Carvel Collins</li>
-<li style="list-style-type: none;">Lecture: <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a>, W. M. Frohock</li>
-<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
+<li style="list-style-type: none;">Lecture, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a>, W. M. Frohock</li>
+<li style="list-style-type: none;">Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
  </li>
 
 </ul>
@@ -39,11 +39,11 @@ layout: default-nonav
 <ul style="list-style-type: none;">
 <li>Opening Remarks, Carvel Collins</li>
 <li>Lecture, Hans Egon Holthusen</li>
-<li>Panel Discussion</li> </ul>
+<li>Session Discussion</li> </ul>
 
 ### Evening: 
 <ul style="list-style-type: none;">
 <li>Opening Remarks, Carvel Collins	</li>
-<li>Lecture: "Paperback Books and the Writer," Hilda Livingston</li>
-<li>Lecture: "The Editor and The Author," William Sloane</li>
-<li>Roundtable Discussion</li> </ul>
+<li>"Paperback Books and the Writer," Hilda Livingston</li>
+<li>"The Editor and The Author," William Sloane</li>
+<li>Panel Discussion</li> </ul>
