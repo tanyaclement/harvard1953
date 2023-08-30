@@ -9,7 +9,7 @@ layout: default-nonav
 ## August 3, 1953
 ### Evening
 <ul style="list-style-type:none;">
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Introduction to Carvel Collins</a>, William Yandell Elliot</li> 
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Conference Opening Remarks</a>, Carvel Collins</li>
 <li style="list-style-type:none;"><a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">"New Trends in the Contemporary Novel,"</a> Stanley Hyman</li> 
 <li style="list-style-type:none;">"The Modern Novel," <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-3-evening-part-two">Part Two</a>, Frank O'Connor 
