@@ -30,8 +30,8 @@ layout: default-nonav
 ### Evening:
 <ul style="list-style-type: none;">
 <li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Opening Remarks</a>,	Carvel Collins</li>
-<li>Lecture: "The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">Part Two</a>, George Simenon</li>
-<li>Lecture: <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">"Certain Neglected Aspects of the American Novel,"</a> Ralph Ellison</li> 
+<li>"The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">Part Two</a>, George Simenon</li>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">"Certain Neglected Aspects of the American Novel,"</a> Ralph Ellison</li> 
 <li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-three">Response to Simenon and Ellison</a>, W.M. Frohock</li> </ul>
  
 ## August 5, 1953
