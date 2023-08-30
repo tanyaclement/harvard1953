@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-two-canvas-1-ralph-ellison.json",
-            "label": {
-              "none": ["Ralph Ellison"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-two-canvas-1-george-simenon.json",
             "label": {
               "none": ["George Simenon"]
