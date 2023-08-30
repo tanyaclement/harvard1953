@@ -22,24 +22,21 @@ layout: default-nonav
 ### Afternoon
 <ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Session Introduction</a>, Carvel Collins</li>
 <li style="list-style-type: none;">Lecture, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part Two</a>, W. M. Frohock</li>
-<li style="list-style-type: none;">Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a> 
- </li>
-
-</ul>
+<li style="list-style-type: none;">Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-two">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Two</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-four">Part Three</a></li></ul>
 
 ### Evening:
 <ul style="list-style-type: none;">
 <li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Opening Remarks</a>,	Carvel Collins</li>
 <li>"The Era of the Novel?," <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">Part One</a> and <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">Part Two</a>, George Simenon</li>
 <li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-two">"Certain Neglected Aspects of the American Novel,"</a> Ralph Ellison</li> 
-<li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-three">Response to Simenon and Ellison</a>, W.M. Frohock</li> </ul>
+<li><a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-three">Response to Simenon and Ellison</a>, W.M. Frohock</li></ul>
  
 ## August 5, 1953
 ### Afternoon: 
 <ul style="list-style-type: none;">
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Opening Remarks</a>, Carvel Collins</li>
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Lecture, Hans Egon Holthusen</a></li>
-<li>Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two">Part Two</li>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three">Part Three</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four">Part Four</a>. </li></ul>
+<li>Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two">Part Two</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three">Part Three</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four">Part Four</a>. </li></ul>
 
 ### Evening: 
 <ul style="list-style-type: none;">
