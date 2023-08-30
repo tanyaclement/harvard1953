@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-frank-o-connor.json",
-            "label": {
-              "none": ["Frank O'Connor"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-afternoon-part-three-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
