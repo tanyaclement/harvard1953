@@ -56,14 +56,6 @@
               "none": ["Audience"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-two-canvas-1-carvel-collins.json",
-            "label": {
-              "none": ["Carvel Collins"]
-            }
-          }
         ],
         "items": [
           {
