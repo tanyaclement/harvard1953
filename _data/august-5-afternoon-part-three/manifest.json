@@ -88,14 +88,6 @@
               "none": ["Frank O'Connor"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-three-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
         ],
         "items": [
           {
