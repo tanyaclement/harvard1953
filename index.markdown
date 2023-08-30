@@ -39,7 +39,7 @@ layout: default-nonav
 <ul style="list-style-type: none;">
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Opening Remarks</a>, Carvel Collins</li>
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Lecture, Hans Egon Holthusen</a></li>
-<li>Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two">Part Two</li>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three">Part Three</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four">Part Four</a>. </ul>
+<li>Session Discussion <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-one">Part One</a>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two">Part Two</li>, <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-three">Part Three</a>, and <a href="https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-four">Part Four</a>. </li></ul>
 
 ### Evening: 
 <ul style="list-style-type: none;">
