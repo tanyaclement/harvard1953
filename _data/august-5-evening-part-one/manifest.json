@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-william-sloan.json",
-            "label": {
-              "none": ["William Sloan"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-carvel-collins.json",
             "label": {
               "none": ["Carvel Collins"]
