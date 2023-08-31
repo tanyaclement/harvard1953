@@ -7,4 +7,4 @@ external_manifest_url:
 
 ---
 ## Afternoon Session and Discussion, August 4, 1953, the Forum Room (Part Four)
-The first afternoon session discussion on August 4th, which continues from <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Three</a>, concludes. The participants leave the Forum Room to gather together later in the evening of August 4 in Sanders Theater for <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">the second evening of public talks</a>. 
+The first afternoon session discussion on August 4th, which continues from <a href="https://tanyaclement.github.io/harvard1953/august-4-afternoon-part-three">Part Three</a>, concludes. The participants leave the Forum Room to gather together later in the evening of August 4th in Sanders Theater for <a href="https://tanyaclement.github.io/harvard1953/august-4-evening-part-one">the second evening of public talks</a>. 
