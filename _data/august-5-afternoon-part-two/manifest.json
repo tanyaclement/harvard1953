@@ -23,16 +23,6 @@
         "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-program.json",
-            "label": {
-              "none": ["Program"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/paintings",
