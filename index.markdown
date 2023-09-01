@@ -45,4 +45,4 @@ layout: default-nonav
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-one">"The Editor and The Author,"</a> William Sloane</li>
 <li><a href="https://tanyaclement.github.io/harvard1953/august-5-evening-part-two">Panel Discussion</a></li> </ul>
 
-## <a href="https://tanyaclement.github.io/harvard1953/term_index">Index of Participants and Events</a>
+## <a href="https://tanyaclement.github.io/harvard1953/term_index">Index of Events and Participants</a>
