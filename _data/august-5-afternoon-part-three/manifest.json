@@ -83,14 +83,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-three-canvas-1-anthony-west.json",
-            "label": {
-              "none": ["Anthony West"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-three-canvas-1-fletcher.json",
             "label": {
               "none": ["Fletcher"]
