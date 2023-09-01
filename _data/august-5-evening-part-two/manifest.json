@@ -32,14 +32,6 @@
               "none": ["Program"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-andrew-lytle.json",
-            "label": {
-              "none": ["Andrew Lytle"]
-            }
-          }
         ],
         "items": [
           {
