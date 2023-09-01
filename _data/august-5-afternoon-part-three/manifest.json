@@ -67,14 +67,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-three-canvas-1-william-yandell-elliott.json",
-            "label": {
-              "none": ["William Yandell Elliott"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-three-canvas-1-frank-o-connor.json",
             "label": {
               "none": ["Frank O'Connor"]
