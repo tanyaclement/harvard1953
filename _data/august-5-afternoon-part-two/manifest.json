@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-frank-o-connor.json",
-            "label": {
-              "none": ["Frank O'Connor"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-anthony-west.json",
             "label": {
               "none": ["Anthony West"]
