@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-ralph-ellison.json",
-            "label": {
-              "none": ["Ralph Ellison"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-carver-collins.json",
             "label": {
               "none": ["Carver Collins"]
