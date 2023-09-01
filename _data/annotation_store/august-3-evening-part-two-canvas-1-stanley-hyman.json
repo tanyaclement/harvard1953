@@ -1,0 +1,143 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-two-canvas-1-stanley-hyman.json",
+  "type": "AnnotationPage",
+  "label": "Stanley Hyman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-stanley-hyman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I don't have much to say to Mr. West's points, in that I think he summarized and commented on what I had to say fairly, with perhaps one small reservation-- that his feeling that I had somehow underrated E. M. Forster by saying that his work dealt with the vocabulary of bad taste rather than the vocabulary of sin, in writers like Graham Greene, I think is unwarranted.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 3 Panel Discusson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3507.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-stanley-hyman-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I was suggesting, and would argue, I think, that these are both major traditions in the serious and worthwhile novel. And if Graham Greene, and those like him, sees things in terms of sin, and Forster does not, I surely wouldn't submit that as a weakness in Forster. I would also note in that account that when I said that Foster's picture of the human heart was no darker than a well-kept front parlor, that of course, a well-kept front parlor is very dark.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 3 Panel Discusson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-3-evening-part-two-canvas-1-stanley-hyman-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Other than that, I suppose the big issue is Kafka, which I think is too much to bring up as a discussion now. And all you can fairly say is that Mr. West apparently doesn't share my feelings for Kafka. I refuse to give them up for that reason, and will, left with what I imagine all of you are exercised with, too, which is simply a difference in taste and opinion. And that's all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanley Hyman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 3 Panel Discusson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-3-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3590.0"
+        }
+      }
+    }
+  ]
+}
