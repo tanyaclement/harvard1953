@@ -32,14 +32,6 @@
               "none": ["Audience"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-3-evening-part-two-canvas-1-wgbh-radio-announcement.json",
-            "label": {
-              "none": ["WGBH Radio Announcement"]
-            }
-          }
         ],
         "items": [
           {
