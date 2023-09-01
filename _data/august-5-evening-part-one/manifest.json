@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-william--sloane.json",
-            "label": {
-              "none": ["William  Sloane"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-one-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
