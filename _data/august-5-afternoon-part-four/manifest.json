@@ -64,14 +64,6 @@
               "none": ["George Simenon"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-four-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
         ],
         "items": [
           {
