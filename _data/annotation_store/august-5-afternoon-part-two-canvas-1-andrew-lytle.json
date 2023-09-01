@@ -1,0 +1,818 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-andrew-lytle.json",
+  "type": "AnnotationPage",
+  "label": "Andrew Lytle",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Please?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "407.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Well, I have nothing further to say to this subject, but I might if momentarily discuss it if I may, deliberately and consciously so. We haven't necessarily defined our terms. And I'm certainly not going to at this late date set about it, but I would like to make one or two distinctions, and I would like to distinguish between the storytelling habit in me which is continuous and universal, and the story as a novel. And I would like to, in consideration, say these two things.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "411.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " First, it is-- you've got to learn to master a certain kind of technique. And I will specify. And I think we got this deliberately from Flaubert, that he used for the first time the five senses as a medium by which you could enter the human consciousness. It had always been done more or less, but from him we learned to do that consciously. And that's a great gain.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "457.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think with-- not the formalist of art but for those who consider form as the final meaning of art, that you have got to have and fix finally somewhere before you get down your point of view, finally, because everything is related through that. And then I'm not going to bore you with various other things, such as the sea and when to use panorama. But I want to say this, that when you start out, if you have beforehand a thorough plotted direction, or rather a blueprint before the thing has begun, that you're going to get the best melodrama.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " That the creative act is a growth and not an organization, because thing that is organized-- you organize something that is already done, as INAUDIBLE. And that finally it is a growth, and that you try to control that growth towards some end. And in that process, you commit your life. That is, that you commit what in you is extremely, to the fullest extent, as James says, if I may be allowed to quote him too, that a man--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "531.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " --that our nation has to undertake the most difficult thing possible to be done. And that's why the artist and the priest and the soldier die every day. It is at full and complete commitment of yourself. And you take the risk of failure, which to a man is the risk of emasculation. And that's what I mean by that total commitment.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "565.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And if you don't believe me, what is a hack writer, a shyster lawyer? What is the other one? They are men who don't take themselves seriously. They don't make that full commitment, and therefore they're a comic figure. And of course-- and that is finally a man's definition of his being. With a woman, it's love. That's why INAUDIBLE is the-- describes the fall of the state of woman, is she's so with a man.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "586.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now if I might-- I mean, I think that I consider myself an artist, I consider in the end that I think we've talked too much about-- well I don't know. I got the feeling that the people of the moment who are making and losing readers in large numbers-- I think that's a mistake. I think that art is in the end aristocratic. And I don't mean in-- to use that in political terms.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "618.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I was thinking that the South perhaps has something to offer in this-- in the heart of this concern. And I was thinking that, as we were saying yesterday, that Sinclair Lewis was boring and died before his time, which must have been a terrifying thing for him. But I was thinking if he had only been born in the South, perhaps he would not look so-- INAUDIBLE  because the South has been defeated. Therefore, the South knows the nature of the world, that in the end it is always defeat because the South has been defeated. Therefore, the South knows the nature of the world, that in the end it is always defeat.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And what have you got for the artist that can forfend that thing, that thief of work? And it is style. It is mannerisms, which now, as I believe Yeats said again, is in the right of style. And he doesn't have to be manly always in life, but he necessarily does in his work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "693.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I think the South has that firm man's grip. That's the reason you have so many good writers who've been writing for 30 years, but with modest readers-- modest group of readers. It's because they know that thing, that you have got to have something when you have pushed back against the wall to contain the core of your being so that you can come again.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "723.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I would furthermore say this, that the Eastern part of the country now is almost entirely metropolitan, and that the word has become shopworn. That the thing makes the word alive is an image, and that you have to live in some country society where the seasons turn and all country people and all seamen speak in terms of images. And that is a thing with the deliberate shaping and twisting and distorting of words to get something fresh, because there's nothing new under the sun. We know that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "747.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " You have the shock in the country, or in a country society, of each day being different from the next. Did you ever hear a farmer who showed any kind of optimism about his crops? No. He doesn't dare, because he'll be tricked by the mysterious powers that rule his field. He's always a pessimist. That means that he also is a religious man, and without some kind of spiritual quality to work-- I mean spiritual quality to an art, it becomes sterile. And it may be very beautiful and glittering, but it has none of that human passion and compassion of which art is made fine.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "788.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now to give you a case in point, I had a tenant. I ran a cotton farm once in my youth, and it was after the First World War. And we at this time were discussing the war debt, which you would think that that was so complicated that certainly nobody would have trained economists to discuss it. And he said this, and notice everything is an image. He said, \"Great Britain has got two vaults of our gold and sat down on it and said, now come get it if you can.\" But I think that that point is to be made.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "841.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And so I'm saying that in a society where you think in images, and art if it's anything it's concretely human. And that's why I take absolutely your position on this allegorical business. It leaves out the circumstantiality and the accident that surrounds life, and you get-- and, of course, in its worst form, it's propaganda. Which leads not to the end of an art, which should be-- any art should be defined in its own terms and have its own experience and not to improve the condition of the middle-Western or the far-Western farmer. That's residual, meaning that it's a political matter.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "875.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And so I am pleading for an art that is aristocratic, which I think is its nature. And that it should be approached with great humility, else you'll destroy it. And that it must always be concrete, and that there is a great extension.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "919.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " INAUDIBLE . Now, of course, that we have inherited from people like Flaubert and James, in spite of the fact you don't like him, has given us a great heel. And I confess that there are moments there when I can't read James. I mean, it's too tenuous. Somebody has got to kiss somebody somewhere.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "946.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-afternoon-part-two-canvas-1-andrew-lytle-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Nevertheless, he has given us a great many technical health. And it takes a long time to master that, and you commit your total and whole being to it, and-- which is the risk of failure. And let me see if I've got anything else to say. Well, I think really that's about all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Session Discussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-afternoon-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "970.0"
+        }
+      }
+    }
+  ]
+}
