@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-afternoon-part-two-canvas-1-andrew-nelson-lytle.json",
             "label": {
               "none": ["Andrew Nelson Lytle"]
