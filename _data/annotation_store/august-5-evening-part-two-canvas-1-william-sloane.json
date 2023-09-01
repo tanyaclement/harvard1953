@@ -1,0 +1,953 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/harvard1953/annotations/august-5-evening-part-two-canvas-1-william-sloane.json",
+  "type": "AnnotationPage",
+  "label": "William Sloane",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " It's a very great mystery to me. And I do have the feeling that, so far as the low-priced paperback reprints are concerned, the following characteristics of them as they appear to me to be, without either approval or disapproval, ought to be laid on the carpet.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1403.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " In the first place, these books are the beneficiaries of the successful merchandising of another field, that is the magazine publishing field. And they're the beneficiaries of this in two ways. At the retail level, at the point-of-sale level, there are a very large number of places which have learned that they can make money off selling magazines. And the books are, from their point of view, identical, as far as record keeping and the like goes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1426.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And second and much more important, the distribution system, which has made possible the large magazine industry of the United States is also being used by, I think, every one or all but one of the paper covered reprint houses. And that had these distribution systems not been in effect, it would probably have been quite impossible for my industry to finance any such development.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1458.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I remember, and I am not at all sure whether the people directly concerned with it would remember this or not, but many years ago, when I was in the business of selling plays for amateurs by mail and working for a Boston company, I was asked to go and see Mr. DeGraff. At that time, I was an expert in direct mail. And I found Mr. DeGraff in a rather small office.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And he said to me, Bill, I am going to start a company which is going to sell books to the American public at $0.25 or less. And it's going to do it by mail, just like Holden and Juniors, only a little more so. And I understand you know what time of year to send out mailings and other things.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1514.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And this came about because Mr. DeGraff, classmate of a brother-in-law, and older brother-in-law of mine. So after about a morning of earnest conversation, I managed to persuade him that this would not work. But even the idea of Pocket Books, which is the originator of the $0.25 reprint idea was originally conceived, without reference to what subsequently turned out to be its greatest economic asset, or at least I think so, Hilda, which is the distribution system through which it operates.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1533.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And this carries with it from your point of view as writers and also as book readers a certain word of caution or warning. There's a limit to the display space, to the rack space, to the amount of choice which can possibly be offered to you as readers, as long as this distribution and merchandising mechanism is the one that is employed for the distribution of these low-priced books.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1566.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And 1,000 titles a year is, I think, really almost more than the traffic will bear. And those of you who have read some of the very interesting pieces written by Freeman Lewis and others on whether or not the mechanism will stand another book a month, well, know that this is a very serious problem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1596.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " There will never be a substitute for a really intelligent person for a bookseller who understands in what you are interested and who will go to the trouble of notifying you of this in the first place. Only one in 10 of the books that might interest you will ever appear in paper covers at all. Second place you may very easily miss them because they come and go on a 30-day average.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1617.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And it's not at all uncommon to miss something that you'd want very much. In a third place, most of us are, I think, a lot of different people in one. And this is where I am the most disturbed about this as an editor. I said earlier that I tried to identify myself with the prospective reader. Any editor does. It's at the editor's desk that the reader and the writer meet. I think I put it that way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1648.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now, I'm a lot of different people all in the same package. And I think you all must be the same. I have two or three extremely special interests. For instance, I am very much interested in certain problems connected with Mayan archaeology. And I think it'll be a long time before Pocket Books comes out with an inexpensive 35 cent copy of the best information which I would like to have on certain problems of Mayan archaeology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1676.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " The other hand, I would probably pay Mr. Wilson $10 for the Harvard University Press's volume on this subject, which if it hasn't come out yet, will undoubtedly someday come out and everything in between. I also enjoy the corniest kind of general fiction. I get a wonderful time out of things like Ravel and Arms and all. I mean, and at this point, I am one with 60 million Americans.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1706.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And yet, at the point of my interest in Mayan archaeology, I'm probably at one with no more than 1,000. And any intelligent person runs this whole gamut. The paper bound books do very well.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1735.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " For that part of you which belongs to, what is it, the highest common multiple of the society in which you live. It will never nourish you it the reading level in the special areas where you're the most different from other people because it can't. And therefore, both are necessary.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1749.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This is a very intelligent question to ask and a very difficult one to answer. Either the first or second year of the National Book Award, a book which I published won the non-fiction award. As a matter of fact, it was a book written by a member of the Harvard faculty. The American Book trade purchased some 1,500 additional copies of this book, which we supplied with a band stating that the book had won the Award and the like.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2235.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And we took 900 of the 1500s back when the whole thing was over and the publicity had died down so that some 600 additional copies of this book were purchased and distributed in this country at a very substantial loss to the book's publisher, who had to pay the freight both ways and also was expected to buy a series of advertisements proclaiming the honor which had come his way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2268.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And let me assure you that anyone who buys advertising space in the newspaper today needs to have a good bank account. On the other hand, I'm inclined to believe that the publishers welcome in this country some competition for the Pulitzer Prize awards, which up to the time of the National Book awards, were almost the only awards which had any significance at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And a Pulitzer Prize or awards would long ago have fallen into disrepute if it were not for the fact that a good many of them are given for various newspaper activities such as cartooning, the best news photo, and other really ridiculous subjects. I mean, imagine giving a Pulitzer Prize for a photograph and allying that with the best novel, the best play, the best work of the creative imagination.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2323.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " This is at the worst, a flick of the wrist in a minute. Maybe the man risked his life to get it. But the things are incommensurable. And there's a lot of bad feeling about this. And the Pulitzer juries got rigged and all kinds of things. Remember, a year in which a person who shall be nameless won the award for poetry in this country for a book which not one of you would recognize in the same year that Robert Frost produced a new volume of verse. And he didn't get the Pulitzer Prize because he'd already had it, you see.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2349.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " So all this had brought a lot of bad feeling about the Pulitzer awards into being. And a competition for it seemed, to the book manufacturer's institute and the book publishers and the book critics, to be a good idea. Now, we all contribute quite heavily to the expenses of this. And it's an investment in publicity, if you want to put it that way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2378.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "august-5-evening-part-two-canvas-1-william-sloane-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " On our part, we believe in it. And we hope that it will have a good effect, both upon readership for books overlooked by the Pulitzer committees, and on the Pulitzer committees themselves. But I don't think the influence in this country is anything like the one is in France. Mr. Simenon can speak about that. But--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "William Sloane",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "August 5 Panel Dicussion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/harvard1953/august-5-evening-part-two/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2400.0"
+        }
+      }
+    }
+  ]
+}
