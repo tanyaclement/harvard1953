@@ -56,14 +56,6 @@
               "none": ["WGBH Radio Announcement"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-three-canvas-1-carvel-collins.json",
-            "label": {
-              "none": ["Carvel Collins"]
-            }
-          }
         ],
         "items": [
           {
