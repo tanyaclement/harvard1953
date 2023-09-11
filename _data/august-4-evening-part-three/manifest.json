@@ -32,14 +32,6 @@
               "none": ["Program"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/harvard1953/annotations/august-4-evening-part-three-canvas-1-frank-o-connor.json",
-            "label": {
-              "none": ["Frank O'Connor"]
-            }
-          }
         ],
         "items": [
           {
