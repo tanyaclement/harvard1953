@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: August 4, Evening Part Two
 manifest_name: august-4-evening-part-two
 permalink: august-4-evening-part-two
