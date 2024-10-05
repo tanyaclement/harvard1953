@@ -115,7 +115,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
+                  "id": "https://ia800100.us.archive.org/12/items/99156329279403941-tape-05-dm-01-01-1-b-192-a-5-a-a-565-4-d-5-d-9-ffc-b-4-bf-38-be-6-d-6-f/99156329279403941_tape05_DM_01_01_%7B1B192A5A-A565-4D5D-9FFC-B4BF38BE6D6F%7D.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 1791.0
                 },
                 "target": "https://tanyaclement.github.io/harvard1953/august-4-evening-part-three/canvas-1/canvas"
